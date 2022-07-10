@@ -22,5 +22,12 @@
 	"remoteUser": "vscode",
 	"features": {
 		"java": "17"
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"vscjava.vscode-spring-initializr"
+			]
+		}
 	}
 }
